@@ -1,3 +1,3 @@
 # Animal
-CS 145 Assignment #1
+CS 145 Practice Assignment
 Practice on Classes
